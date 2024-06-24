@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Hello.dir/main.cpp.o  -o Hello -Wl,-rpath,/home/estudiante/Escritorio/ingenieria/TutCMake2/build/my_library my_library/libmy_library.so 

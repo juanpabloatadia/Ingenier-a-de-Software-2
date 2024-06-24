@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../my_library/my_library.h
+
+/home/estudiante/Escritorio/ingenieria/TutCMake2/main.cpp
+iostream
+-
+my_library.h
+-
+

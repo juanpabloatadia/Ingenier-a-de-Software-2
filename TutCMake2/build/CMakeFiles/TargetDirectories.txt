@@ -1,0 +1,6 @@
+/home/estudiante/Escritorio/ingenieria/TutCMake2/build/CMakeFiles/rebuild_cache.dir
+/home/estudiante/Escritorio/ingenieria/TutCMake2/build/CMakeFiles/Hello.dir
+/home/estudiante/Escritorio/ingenieria/TutCMake2/build/CMakeFiles/edit_cache.dir
+/home/estudiante/Escritorio/ingenieria/TutCMake2/build/my_library/CMakeFiles/rebuild_cache.dir
+/home/estudiante/Escritorio/ingenieria/TutCMake2/build/my_library/CMakeFiles/my_library.dir
+/home/estudiante/Escritorio/ingenieria/TutCMake2/build/my_library/CMakeFiles/edit_cache.dir

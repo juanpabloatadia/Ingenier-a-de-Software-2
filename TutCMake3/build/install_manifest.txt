@@ -1,0 +1,3 @@
+/home/estudiante/Escritorio/ingenieria/TutCMake3/build/instalacion/bin/Ejecutable
+/home/estudiante/Escritorio/ingenieria/TutCMake3/build/instalacion/bin/config/config.json
+/home/estudiante/Escritorio/ingenieria/TutCMake3/build/instalacion/bin/launcher.sh

@@ -1,0 +1,7 @@
+/home/estudiante/Escritorio/ingenieria/TutCMake3/build/CMakeFiles/install/strip.dir
+/home/estudiante/Escritorio/ingenieria/TutCMake3/build/CMakeFiles/edit_cache.dir
+/home/estudiante/Escritorio/ingenieria/TutCMake3/build/CMakeFiles/Ejecutable.dir
+/home/estudiante/Escritorio/ingenieria/TutCMake3/build/CMakeFiles/rebuild_cache.dir
+/home/estudiante/Escritorio/ingenieria/TutCMake3/build/CMakeFiles/list_install_components.dir
+/home/estudiante/Escritorio/ingenieria/TutCMake3/build/CMakeFiles/install/local.dir
+/home/estudiante/Escritorio/ingenieria/TutCMake3/build/CMakeFiles/install.dir

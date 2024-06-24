@@ -1,0 +1,1 @@
+/usr/bin/clang++     CMakeFiles/TutCMake4.dir/main.cpp.o  -o TutCMake4 
